@@ -1,0 +1,4 @@
+test: Connecting from github
+server:
+  connection: https
+  host: github.com
